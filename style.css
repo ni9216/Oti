@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    margin: 10px;
+}
+h1 {
+    padding: 50px;
+
+}
+
+#header {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#newsblogid {
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+
+
+}
+
+.specificBlog {
+    display: flex;
+    margin: 5px;
+}
+
+.specificBlog > .blogright > h4 {
+    padding: 10px;
+    color: pink;
+}
+
+.specificBlog > .blogright > p{
+    padding-left: 10px;
+
+}
+
+.specificBlog > .blogright > a{
+    padding-left: 10px;
+}
